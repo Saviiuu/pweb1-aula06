@@ -1,0 +1,16 @@
+ol.romano 
+{
+    list-style-type: upper-roman;
+}
+
+ol.quadrado
+{
+    list-style-type: square;
+}
+
+body
+{
+    background-color: black;
+    color: gray;
+
+}
